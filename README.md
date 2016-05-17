@@ -1,6 +1,6 @@
 # holman/ama
 
-这是一个向 [@answer1991](https://blog.answer1991.io) 提问的仓库。
+这是一个向 [@answer1991](http://blog.answer1991.io) 提问的仓库。
 
 ### 提问
 
